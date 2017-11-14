@@ -1,5 +1,5 @@
     var hasOwnProperty = Object.hasOwnProperty;
-    var chinaproxy ='DIRECT';
+    var chinaproxy ='SOCKS5 4.3.2.1:5000;SOCKS 4.3.2.1:5000;DIRECT';
     var overseaproxy ='SOCKS5 1.2.3.4:5000;SOCKS 1.2.3.4:5000;DIRECT';
     var list = [
         [
