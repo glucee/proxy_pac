@@ -3,7 +3,7 @@ This PAC allows users to visit Chinese websites via chinaproxy and oversea websi
 
 You just need to config the following variables:
 
-var chinaproxy ='DIRECT'; //for visiting Chinese websites
+var chinaproxy ='PROXY 1.2.3.4:1194;SOCKS5 1.2.3.4:5000;SOCKS 1.2.3.4:5000;DIRECT'; //for visiting Chinese websites
 
 var overseaproxy ='SOCKS5 1.2.3.4:5000;SOCKS 1.2.3.4:5000;DIRECT'; //for visiting oversea websites
 
