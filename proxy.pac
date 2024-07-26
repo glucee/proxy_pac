@@ -4898,7 +4898,7 @@
         "meizu.com": 1,
         "microsoft.com": 1,
         "miui.com": 1,
-        "migu.com": 1,
+        "mgtv.com": 1,
         "moe123.com": 1,
         "moegirl.org": 1,
         "mop.com": 1,
