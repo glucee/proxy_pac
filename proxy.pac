@@ -1,5 +1,5 @@
     var hasOwnProperty = Object.hasOwnProperty;
-    var chinaproxy ='SOCKS5 4.3.2.1:5000;SOCKS 4.3.2.1:5000;DIRECT';
+    var chinaproxy ='HTTP secure.unblockpro.app:8080;HTTP secure.unblockpro.app:8080;DIRECT';
     var overseaproxy ='SOCKS5 1.2.3.4:5000;SOCKS 1.2.3.4:5000;DIRECT';
     var list = [
         [
@@ -4898,6 +4898,7 @@
         "meizu.com": 1,
         "microsoft.com": 1,
         "miui.com": 1,
+        "migu.com": 1,
         "moe123.com": 1,
         "moegirl.org": 1,
         "mop.com": 1,
